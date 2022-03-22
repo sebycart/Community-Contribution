@@ -1,1 +1,3 @@
-# Community-ContributionStatistical Graphics - Community Contribution
+# Statistical Graphics - Community Contribution
+
+This is from RStudio.
